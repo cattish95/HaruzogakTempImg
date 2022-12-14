@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="46" viewBox="0 0 280 46">
+    <g data-name="그룹 178749" transform="translate(-40 -692)">
+        <rect data-name="사각형 4676" width="280" height="46" rx="4" transform="rotate(180 160 369)" style="fill:#333"/>
+        <text data-name="FIND MY WAY" transform="translate(174 721)" style="fill:#fff;font-size:14px;font-family:NotoSansKR-Regular,Noto Sans KR;letter-spacing:-.03em"><tspan x="-38.948" y="0">기록하러 가기</tspan></text>
+        <g data-name="그룹 178746">
+            <g data-name="그룹 7198">
+                <g data-name="그룹 10587">
+                    <path data-name="사각형 4646" transform="rotate(-90 470.5 252.5)" style="fill:none" d="M0 0h16v16H0z"/>
+                    <g data-name="그룹 6714" style="opacity:.5">
+                        <path data-name="선 1" transform="rotate(-90 471.5 247.5)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="m0 0 4 4"/>
+                        <path data-name="선 2" transform="rotate(-90 469.5 245.5)" style="stroke:#fff;stroke-linecap:round;stroke-width:1.5px;fill:none" d="m0 4 4-4"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
